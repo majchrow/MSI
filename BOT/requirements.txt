@@ -38,7 +38,7 @@ srsly==1.0.2
 thinc==7.0.8
 tqdm==4.46.0
 typing-extensions==3.7.4.2
-urllib3==1.25.9
+urllib3==1.26.5
 wasabi==0.6.0
 Werkzeug==1.0.1
 yarl==1.4.2
